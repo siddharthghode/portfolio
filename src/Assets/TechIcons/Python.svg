@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" height="24px">
+<svg width="24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24px">
+<g transform="scale(0.1875)">
+
     <linearGradient id="python-original-a" gradientUnits="userSpaceOnUse" x1="70.252" y1="1237.476"
         x2="170.659" y2="1151.089" gradientTransform="matrix(.563 0 0 -.568 -29.215 707.817)">
         <stop offset="0" stop-color="#5A9FD4" />
@@ -22,4 +24,6 @@
     </radialGradient>
     <path opacity=".444" fill="url(#python-original-c)"
         d="M97.309 119.597c0 3.543-14.816 6.416-33.091 6.416-18.276 0-33.092-2.873-33.092-6.416 0-3.544 14.815-6.417 33.092-6.417 18.275 0 33.091 2.872 33.091 6.417z" />
+
+</g>
 </svg>

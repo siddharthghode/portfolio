@@ -19,7 +19,6 @@ import MySQL from "../../Assets/TechIcons/mysql.svg";
 import SQLite from "../../Assets/TechIcons/sqlite.svg";
 import Linux from "../../Assets/TechIcons/linux.svg";
 import Redis from "../../Assets/TechIcons/redis.svg";
-import LeetCode from "../../Assets/TechIcons/leetcode.svg";
 
 function Techstack() {
   return (
@@ -108,11 +107,6 @@ function Techstack() {
 <Col xs={4} md={2} className="tech-icons">
   <img src={Redis} alt="Redis" />
   <div className="tech-icons-text">Redis</div>
-</Col>
-
-<Col xs={4} md={2} className="tech-icons">
-  <img src={LeetCode} alt="LeetCode" />
-  <div className="tech-icons-text">LeetCode</div>
 </Col>
 
     </Row>

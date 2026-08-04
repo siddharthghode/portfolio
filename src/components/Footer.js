@@ -6,7 +6,7 @@ import {
    AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { SiLeetcode, SiGmail } from "react-icons/si";
+import { SiGmail } from "react-icons/si";
 
 function Footer() {
   const year = new Date().getFullYear();
@@ -46,18 +46,6 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
-              </a>
-            </li>
-
-            {/* LeetCode */}
-            <li className="social-icons">
-              <a
-                href="https://leetcode.com/u/siddharth_ghode/"
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <SiLeetcode />
               </a>
             </li>
 

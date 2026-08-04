@@ -40,7 +40,7 @@ function AboutCard() {
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Solving DSA & LeetCode Problems 💻
+              <ImPointRight /> Solving DSA Problems 💻
             </li>
             <li className="about-activity">
               <ImPointRight /> Playing Basketball 🏀

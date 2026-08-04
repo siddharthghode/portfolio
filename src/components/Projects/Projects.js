@@ -65,7 +65,7 @@ function Projects() {
             <ProjectCard
               imgPath={dsaTracker}
               isBlog={false}
-              title="DSA & LeetCode Solutions"
+              title="DSA Solutions"
               description="A collection of Data Structures and Algorithms solutions implemented in Python and Java, covering arrays, linked lists, trees, graphs, dynamic programming, and more."
               ghLink="YOUR_GITHUB_LINK"
             />

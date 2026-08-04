@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 128 128" height="24px">
+<svg width="24px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 24 24" height="24px">
+<g transform="scale(0.1875)">
+
     <defs>
         <path id="go-original-a" d="M18.8 1h90.5v126H18.8z" />
     </defs>
@@ -100,4 +102,6 @@
         clip-path="url(#go-original-b)" />
     <path fill-rule="evenodd" clip-rule="evenodd"
         d="M58.6 32.1c-.2-4.7 8.8-5.3 9.8-1.4 1.1 4-9.4 4.9-9.8 1.4" clip-path="url(#go-original-b)" />
+
+</g>
 </svg>
