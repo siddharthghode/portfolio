@@ -33,7 +33,7 @@ function Projects() {
               isBlog={false}
               title="Book Recommendation System"
               description="A full-stack library management and recommendation platform built using Django REST Framework and React. Features JWT authentication, role-based access, PostgreSQL, and a hybrid recommendation engine using TF-IDF and collaborative filtering."
-              ghLink="YOUR_GITHUB_LINK"
+              ghLink="https://github.com/siddharthghode/Recommondation_system"
               demoLink="YOUR_LIVE_DEMO"
             />
           </Col>
@@ -45,7 +45,7 @@ function Projects() {
               isBlog={false}
               title="Library Management System"
               description="A web-based library management application with user authentication, book issuing, inventory management, admin dashboard, and REST APIs built using Django and React."
-              ghLink="YOUR_GITHUB_LINK"
+              ghLink="https://github.com/siddharthghode/Recommondation_system"
             />
           </Col>
 
@@ -56,7 +56,7 @@ function Projects() {
               isBlog={false}
               title="Photography Portfolio"
               description="A responsive photography portfolio website developed using PHP, MySQL, HTML, CSS, and Bootstrap. Includes image galleries, CRUD operations, and an admin panel."
-              ghLink="YOUR_GITHUB_LINK"
+              ghLink="https://github.com/siddharthghode/dynamic-photoVault"
             />
           </Col>
 
@@ -78,7 +78,7 @@ function Projects() {
               isBlog={false}
               title="Personal Portfolio"
               description="A modern, responsive developer portfolio built using React and Bootstrap to showcase projects, technical skills, resume, and contact information."
-              ghLink="YOUR_GITHUB_LINK"
+              ghLink="https://github.com/siddharthghode/portfolio"
               demoLink="YOUR_PORTFOLIO_LINK"
             />
           </Col>
