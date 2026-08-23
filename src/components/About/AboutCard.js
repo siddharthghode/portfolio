@@ -14,22 +14,22 @@ function AboutCard() {
             I'm currently pursuing my{" "}
             <span className="purple">M.Sc. in Computer Science</span> at{" "}
             <span className="purple">
-              Savitribai Phule Pune University
+              Department of Computer Science,Pune University
             </span>
             .
             <br />
             I'm passionate about{" "}
             <span className="purple">
-              Full Stack Development, Backend Engineering, and AI-powered
+              Full Stack Development, Backend Engineering,
+              Low-level engineering and AI-powered
               Applications
             </span>
             .
             <br />
             <br />
-            I enjoy building scalable web applications using{" "}
+            I enjoy working on  scalable web applications using{" "}
             <span className="purple">
-              Python, Django, Django REST Framework, React.js, PostgreSQL, and
-              modern development tools
+              Python, Django, Django REST Framework, React.js, PostgreSQL, and some dev ops tools
             </span>
             . I'm always eager to learn new technologies and solve real-world
             problems through software.
@@ -38,26 +38,29 @@ function AboutCard() {
             Beyond coding, I enjoy:
           </p>
 
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Solving DSA Problems 💻
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Playing Basketball 🏀
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Trekking & Exploring New Places 🏔️
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Photography 📸
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Learning AI, Backend & System Design 🚀
-            </li>
-          </ul>
+<ul>
+  <li className="about-activity">
+    <ImPointRight /> 🏀Playing Basketball
+  </li>
+  <li className="about-activity">
+    <ImPointRight/> 🐧Exploring Linux
+  </li>
+  <li className="about-activity">
+     <ImPointRight /> 💻Solving DSA Problems
+  </li>
+  <li className="about-activity">
+    <ImPointRight /> 🏔️Trekking & Exploring New Places 
+  </li>
+  <li className="about-activity">
+    <ImPointRight /> 📸Photography 
+  </li>
+  <li className="about-activity">
+    <ImPointRight /> ⚙️Exploring AI, Backend & System Design 
+  </li>
+</ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Keep learning, keep building, and let your work speak for itself."
+        “Don’t stay ordinary. Be a jack of all trades, master of many.”
           </p>
 
           <footer className="blockquote-footer">Siddharth Ghode</footer>

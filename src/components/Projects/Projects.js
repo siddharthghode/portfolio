@@ -4,10 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import bookRecommendation from "../../Assets/Projects/book-recommendation.jpg";
-import libraryManagement from "../../Assets/Projects/library-management.webp";
-import photographyPortfolio from "../../Assets/Projects/photographyPortfolio.avif";
-import dsaTracker from "../../Assets/Projects/dsa-tracker.webp";
-import portfolio from "../../Assets/Projects/portfolio.avif";
+import portfolio from "../../Assets/Projects/portfolio.jpg";
 
 function Projects() {
   return (
@@ -34,40 +31,7 @@ function Projects() {
               title="Book Recommendation System"
               description="A full-stack library management and recommendation platform built using Django REST Framework and React. Features JWT authentication, role-based access, PostgreSQL, and a hybrid recommendation engine using TF-IDF and collaborative filtering."
               ghLink="https://github.com/siddharthghode/Recommondation_system"
-              demoLink="YOUR_LIVE_DEMO"
-            />
-          </Col>
-
-          {/* Library Management */}
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={libraryManagement}
-              isBlog={false}
-              title="Library Management System"
-              description="A web-based library management application with user authentication, book issuing, inventory management, admin dashboard, and REST APIs built using Django and React."
-              ghLink="https://github.com/siddharthghode/Recommondation_system"
-            />
-          </Col>
-
-          {/* Photography Portfolio */}
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={photographyPortfolio}
-              isBlog={false}
-              title="Photography Portfolio"
-              description="A responsive photography portfolio website developed using PHP, MySQL, HTML, CSS, and Bootstrap. Includes image galleries, CRUD operations, and an admin panel."
-              ghLink="https://github.com/siddharthghode/dynamic-photoVault"
-            />
-          </Col>
-
-          {/* DSA */}
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={dsaTracker}
-              isBlog={false}
-              title="DSA Solutions"
-              description="A collection of Data Structures and Algorithms solutions implemented in Python and Java, covering arrays, linked lists, trees, graphs, dynamic programming, and more."
-              ghLink="YOUR_GITHUB_LINK"
+              demoLink="https://recommondation-system-1.onrender.com"
             />
           </Col>
 
