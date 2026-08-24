@@ -14,6 +14,13 @@ coverage/
 .gitignore
 .vscode/
 .idea/
+.github/
+
+# Temporary and cache files
+.npm/
+.cache/
+.eslintcache
+.turbo/
 
 # Environment files
 .env
