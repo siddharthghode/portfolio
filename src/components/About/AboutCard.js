@@ -14,22 +14,22 @@ function AboutCard() {
             I'm currently pursuing my{" "}
             <span className="purple">M.Sc. in Computer Science</span> at{" "}
             <span className="purple">
-              Department of Computer Science,Pune University
+              Department of Computer Science, Pune University
             </span>
             .
             <br />
             I'm passionate about{" "}
             <span className="purple">
               Full Stack Development, Backend Engineering,
-              Low-level engineering and AI-powered
+              Low-Level Engineering, and AI-Powered
               Applications
             </span>
             .
             <br />
             <br />
-            I enjoy working on  scalable web applications using{" "}
+            I enjoy working on scalable web applications using{" "}
             <span className="purple">
-              Python, Django, Django REST Framework, React.js, PostgreSQL, and some dev ops tools
+              Python, Django, Django REST Framework, React.js, PostgreSQL, and modern DevOps tools
             </span>
             . I'm always eager to learn new technologies and solve real-world
             problems through software.
@@ -40,22 +40,22 @@ function AboutCard() {
 
 <ul>
   <li className="about-activity">
-    <ImPointRight /> 🏀Playing Basketball
+    <ImPointRight /> 🏀 Playing Basketball
   </li>
   <li className="about-activity">
-    <ImPointRight/> 🐧Exploring Linux
+    <ImPointRight /> 🐧 Exploring Linux
   </li>
   <li className="about-activity">
-     <ImPointRight /> 💻Solving DSA Problems
+     <ImPointRight /> 💻 Solving DSA Problems
   </li>
   <li className="about-activity">
-    <ImPointRight /> 🏔️Trekking & Exploring New Places 
+    <ImPointRight /> 🏔️ Trekking & Exploring New Places 
   </li>
   <li className="about-activity">
-    <ImPointRight /> 📸Photography 
+    <ImPointRight /> 📸 Photography 
   </li>
   <li className="about-activity">
-    <ImPointRight /> ⚙️Exploring AI, Backend & System Design 
+    <ImPointRight /> ⚙️ Exploring AI, Backend & System Design 
   </li>
 </ul>
 

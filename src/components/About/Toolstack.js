@@ -16,7 +16,7 @@ function Toolstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <img src={Vim} alt="VS Code" className="tech-icon-images" />
+        <img src={Vim} alt="Vim" className="tech-icon-images" />
         <div className="tech-icons-text">Vim</div>
       </Col>
 
