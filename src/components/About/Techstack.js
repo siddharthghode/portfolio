@@ -9,7 +9,6 @@ import ReactIcon from "../../Assets/TechIcons/React.svg";
 import Node from "../../Assets/TechIcons/Node.svg";
 import Git from "../../Assets/TechIcons/Git.svg";
 import Docker from "../../Assets/TechIcons/Docker.svg";
-import SQL from "../../Assets/TechIcons/SQL.svg";
 import Tailwind from "../../Assets/TechIcons/Tailwind.svg";
 import Postman from "../../Assets/TechIcons/Postman.svg";
 import AWS from "../../Assets/TechIcons/AWS.svg";
