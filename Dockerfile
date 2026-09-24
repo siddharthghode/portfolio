@@ -4,7 +4,7 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm ci --legacy-peer-deps
 COPY . .
-RUN CI=false npm run build
+RUN NODE_OPTIONS=--max_old_space_size=1536 CI=false npm run build
 
 # Serve stage
 FROM nginx:alpine
