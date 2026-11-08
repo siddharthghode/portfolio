@@ -5,6 +5,7 @@ import Particle from "../Particle";
 
 import bookRecommendation from "../../Assets/Projects/book-recommendation.jpg";
 import portfolio from "../../Assets/Projects/portfolio.jpg";
+import portpilot from "../../Assets/Projects/portpilot.jpg";
 
 function Projects() {
   return (
@@ -22,6 +23,17 @@ function Projects() {
         </p>
 
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+          {/* PortPilot: Linux Port & Process CLI */}
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={portpilot}
+              isBlog={false}
+              title="PortPilot — Linux Port & Process CLI"
+              description="A production-grade Linux command-line developer utility engineered to detect network socket collisions, inspect process tree metadata via kernel Netlink and procfs, safely terminate conflicting ports with fail-safe signal escalation (PID 1 protection, SIGTERM grace period), and validate Docker Compose port bindings before container startup."
+              ghLink="https://github.com/siddharthghode/PortPilot"
+            />
+          </Col>
 
           {/* Book Recommendation System */}
           <Col md={4} className="project-card">
